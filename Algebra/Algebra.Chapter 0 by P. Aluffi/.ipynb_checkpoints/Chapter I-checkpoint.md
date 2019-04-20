@@ -1,7 +1,7 @@
 # Chapter I.Preliminaries: Set theory and categories
 ## 1. Naive set theory
 ### 1.1. Sets.
-*Set* -'Collection of objects'. A set is determined by the *elements* it contains. $ A = \{1,2,3\}$
+*Set* -'Collection of objects'. A set is determined by the *elements* it contains. $A = \{1,2,3\}$
 <br>*Multiset* - a set, in which the elements are allowed to appear 'with multiplicity'. $ B = \{1,2,2,3\}$
 <br>*Singleton* - set, consisting of 1 element. $ C = \{2\}$
 <br>A few famous sets are:
